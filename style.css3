@@ -1,0 +1,49 @@
+body{
+ background-color: #BDE0FE; 
+}
+h1{
+  color: #f72585;
+  font-size: 175%;
+  letter-spacing: 2px;
+  text-decoration: underline;
+  text-decoration-color: #00bbf9;
+}
+h2{
+  color: #f72585;
+  font-size: 125%;
+  letter-spacing: 0.5px;
+  text-decoration: none;
+  text-decoration-color: #f72585;
+}
+p{
+  color: #f72585;
+  font-size: 150%;
+}
+img{
+  width: 45%;
+  border-style: double;
+  boder-color: #00b4d8;
+  border-width: 10px;
+}
+iframe{
+  border: double;
+}
+ul{
+  list-style-type: none;
+  text-align: center;
+  position: fixed;
+}
+li{
+  float: left;
+}
+li a{
+  padding: 20px;
+  color: #f72585;
+  font-family: "Monaco", Monospace;
+  text-decoation: none;
+  border: dashed;
+}
+li a:hover{
+  background-color: white;
+  color:  #f72585;
+}
